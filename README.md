@@ -1,16 +1,15 @@
-### Hi there 👋
+### Всем привет, меня зовут Алексей 👋
 
-<!--
-**pure-code/pure-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Я фронтенд-разработчик специализирующийся на ReactJS.**
 
-Here are some ideas to get you started:
+Мои главные технические знания:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Javascript
+- ReactJS
+- Typescript
+
+А также знаю NodeJS, NestJS, Apollo GraphQL, NextJS, MobX, Redux, Styled Components, популярные библиотеки из мира React'а и многие другие прикладные инструменты.
+
+Демонстрацию моих навыков фронтенда можно посмотреть здесь https://github.com/pure-code/hard-skills-example
+
+Резюме https://career.habr.com/pure-code
